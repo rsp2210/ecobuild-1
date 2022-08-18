@@ -1,5 +1,3 @@
-# Team-Project-9
-
 ## EcoBuild
 
 ### Problem Statement
